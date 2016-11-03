@@ -2,6 +2,12 @@
 
 **Pair Programming TDD** - Write tests first; let them fail; fix them!
 
+This exercise is good for both new and experienced developers.
+
+New developers can learn how to code from TDD (that's an extra), and experienced developers can practice one golden rule on testing: baby steps.
+
+Surprisingly, new developers, the less experienced ones use to provide more great ideas than experienced developers.
+
 ## Tower of Hanoi
 
 ### Rules
